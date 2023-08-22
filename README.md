@@ -1,4 +1,5 @@
-Ola, me chamo emerson, sou nordestino, baiano da cidade de Euclides da cunha. 
-Sou apaixonado por esporte, pratico boxe e gosto muito de futebol, falar nisso, Bora Bahêa!
-Desde criança apaixonado por tecnologia, sempre gostei de fazer manuntenção em périfericos e desde 2016 entrei no mundo da programação!
-Dias de luta, dias de Glória. o céu é o limite, vamos lá!! 
+Sou o Emerson, jovem do interior da Bahia que vai conquistar o mundo, torcedor do Bahêa e apaixonado por forró.
+Atualmente tenho uma microempresa, que presta serviço de assistência técnica. Formado em técnico em informática pelo IFBA em 2019, foi onde mergulhei de vez no mundo da tecnologia. Tenho experencia em: C, Python, Java, JavaScript, NodeJs, Git, SQL.
+
+linkedin: https://www.linkedin.com/in/emersonreistec/
+Tenho interesse em atuar como Desenvolvedor de Software Back-end.
